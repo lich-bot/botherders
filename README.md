@@ -7,7 +7,7 @@ Members
 -------
 
  * Dustin J. Mitchell
- * Bill Deegan (Representative to Conservancy)
+ * lich-bot (Representative to Conservancy)
  * Amar Takhar
  * Pierre Tardy
  * Jared Grubb
